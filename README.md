@@ -1,5 +1,10 @@
 # ai-env-sync
 
+[![npm version](https://img.shields.io/npm/v/ai-env-sync.svg)](https://www.npmjs.com/package/ai-env-sync)
+[![npm downloads](https://img.shields.io/npm/dm/ai-env-sync.svg)](https://www.npmjs.com/package/ai-env-sync)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate .env.example from your .env files. Strips secrets, adds helpful comments.
 
 ## Install
