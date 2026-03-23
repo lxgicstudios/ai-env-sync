@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-env-sync#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-env-sync"
+    "url": "git+https://github.com/LXGIC-Studios/ai-env-sync.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-env-sync/issues"
