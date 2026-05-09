@@ -15,23 +15,31 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "env",
-    "dotenv",
-    "environment",
-    "config",
-    "secrets",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "config",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "dotenv",
+    "env",
+    "environment",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
     "sync",
+    "typescript",
     "variables"
   ],
   "author": "LXGIC Studios",
@@ -39,7 +47,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-env-sync#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-env-sync.git"
+    "url": "https://github.com/LXGIC-Studios/ai-env-sync"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-env-sync/issues"
