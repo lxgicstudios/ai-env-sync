@@ -16,7 +16,7 @@
 
 # AI Env Sync
 
-solve specific development challenges with AI-powered insights.
+AI-powered env file manager — sync .env files, detect missing variables, and validate configs. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-env-sync.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-env-sync)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-env-sync?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-env-sync)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered env file manager - sync .env files and detect missing variables with GPT.
+> AI-powered env file manager — sync .env files and detect missing variables with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
