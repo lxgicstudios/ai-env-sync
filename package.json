@@ -8,7 +8,7 @@
     "ai-env-sync": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,13 +31,14 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-env-sync",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-env-sync",
   "keywords": [
     "environment-variables",
     "dotenv",
     "config",
     "secrets",
-    "devops"
+    "devops",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -48,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-env-sync"
   },
   "scripts": {
