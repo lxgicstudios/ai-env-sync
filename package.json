@@ -8,7 +8,7 @@
     "ai-env-sync": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-env-sync/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-env-sync",
+  "homepage": "https://github.com/LXGIC-Studios/ai-env-sync",
   "keywords": [
     "environment-variables",
     "dotenv",
@@ -39,7 +39,19 @@
     "secrets",
     "devops",
     "june-2026-core-update",
-    "technical-seo"
+    "technical-seo",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-env-sync"
+    "url": "git+https://github.com/LXGIC-Studios/ai-env-sync.git"
   },
   "scripts": {
     "build": "tsc"
