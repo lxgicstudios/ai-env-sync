@@ -47,10 +47,7 @@
     "dotenv",
     "environment-variables",
     "gpt",
-    "june-2026-core-update",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "june-2026-core-update"
   ],
   "license": "MIT",
   "main": "dist/index.js",
